@@ -1,0 +1,12 @@
+[2026-02-24 16:41:21.043] [info] Vimba Beam Profiler starting
+[2026-02-24 16:41:22.581] [info] Vimba X system startup OK
+[2026-02-24 16:41:22.592] [debug] refreshDevices: scanning for cameras
+[2026-02-24 16:41:23.061] [debug] listDevices: id=DEV_Cam1 model=Camera Simulator (G1-030_VSWIR) serial=0D512
+[2026-02-24 16:41:23.061] [debug] listDevices: id=DEV_Cam2 model=Camera Simulator (G1-510c) serial=02775
+[2026-02-24 16:41:23.062] [debug] listDevices: id=DEV_Cam3 model=Camera Simulator serial=0D4A9
+[2026-02-24 16:41:23.062] [info] listDevices: 3 camera(s) found
+[2026-02-24 16:41:23.062] [info] refreshDevices: found 3 camera(s)
+[2026-02-24 16:41:23.062] [debug] loadMostRecentExperiment: looking for settings for serial=0D512
+[2026-02-24 16:41:23.063] [debug] loadMostRecentExperiment: no experiment files found
+[2026-02-24 16:41:23.063] [debug] loadMostRecentExperiment: looking for settings for serial=0D512
+[2026-02-24 16:41:23.063] [debug] loadMostRecentExperiment: no experiment files found
