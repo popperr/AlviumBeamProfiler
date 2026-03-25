@@ -8,6 +8,8 @@ REQUIREMENTS
 1. Allied Vision Vimba X SDK
    Download and install from:
    https://www.alliedvision.com/en/products/software/vimba-x-sdk/
+   Plug in your Alvium camera via USB before running the installer so
+   that the correct drivers are installed automatically.
    This provides the camera drivers required to detect and communicate
    with Alvium cameras.
 
