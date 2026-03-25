@@ -18,12 +18,13 @@ REQUIREMENTS
 
 USAGE
 -----
-1. Connect your Alvium camera via USB 3.0 (required for full-frame streaming).
+1. Connect your Alvium camera via USB 3.0 for best performance.
 2. Run VimbaBeamProfiler.exe.
 3. Select your camera from the device list and click Start.
 
 NOTES
 -----
-- The camera MUST be connected to a USB 3.0 port with a USB 3.0 cable.
-  USB 2.0 does not provide enough bandwidth.
+- USB 3.0 is recommended for full-speed streaming. USB 2.0 connections and
+  bandwidth-limited hubs will work but at a reduced frame rate. 
+  Hardware decimation may be necessary for USB 2.0.
 - Logs are saved to the logs/ subfolder for troubleshooting.
